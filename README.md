@@ -16,15 +16,12 @@ This Python project fetches 5-day weather forecasts for any country or city usin
    pip install requests
 3. Replace the placeholder api_key in the code with your OpenWeatherMap API key as follows:
 
-- Sign up at [OpenWeatherMap](https://openweathermap.org).
-- Log in to your account.
-- Go to **API keys** from your profile.
-- Click **Create Key** to generate your API key.
-- Copy the generated API key and use it in your project.
+   - Sign up at [OpenWeatherMap](https://openweathermap.org).
+   - Log in to your account.
+   - Go to **API keys** from your profile.
+   - Click **Create Key** to generate your API key.
+   - Copy the generated API key and use it in your project.
 
 5. Run the program:
    ```bash
    python main.py
-
-
-   
