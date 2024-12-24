@@ -11,3 +11,12 @@ This Python project fetches 5-day weather forecasts for any country or city usin
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-forecast.git
+2. Install the required library:
+   ```bash
+   pip install requests
+3. Replace the placeholder api_key in the code with your OpenWeatherMap API key.
+4. Run the program:
+   ```bash
+   python main.py
+
+   
