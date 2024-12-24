@@ -19,4 +19,8 @@ This Python project fetches 5-day weather forecasts for any country or city usin
    ```bash
    python main.py
 
+## Resources
+- [OpenWeatherMap API](https://openweathermap.org/)
+
+
    
